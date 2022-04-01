@@ -3,7 +3,7 @@ import axios from 'axios';
 const API_URL = 'https://the-sneaker-database.p.rapidapi.com';
 const API_HEADERS = {
   'X-RapidAPI-Host': 'the-sneaker-database.p.rapidapi.com',
-  'X-RapidAPI-Key': '71708bcce5msh23cb94b195952a3p1bd9e3jsnd70d66ab20b3',
+  'X-RapidAPI-Key': '1d6685f314msh853970c2ea1bc3bp197a1fjsnddb35fa3a5eb',
 };
 
 export const getAllShoesAPI = async () => {
